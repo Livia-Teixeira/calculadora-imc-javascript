@@ -1,0 +1,47 @@
+.imc{
+    color:#75BDDD;
+}
+
+.aoClicar:hover { 
+    border-bottom: 3px solid #75BDDD; }
+
+
+
+.icon-grande{
+    font-size: 70px;
+    color:#75BDDD;
+    
+}
+
+.titulo{
+    border-bottom: 3px solid #000;
+}
+
+.tamanhofoto{
+    border-radius: 20px;
+    width: 500px;
+    margin-right: 150px;
+}
+
+.caixa {
+    width: 500px;
+    border: none; 
+    border-radius: 30px;
+    background-color: #75BDDD;
+    box-shadow: 5px 6px 12px rgba(0, 0, 0, 0.45);
+}
+
+.fonte{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
