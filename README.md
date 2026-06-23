@@ -54,5 +54,6 @@ Durante o desenvolvimento deste projeto foram aplicados os seguintes conceitos:
 Este projeto não tem como objetivo ser uma aplicação profissional ou completa. Sua finalidade é servir como ferramenta de aprendizado e registro da minha evolução como desenvolvedora Front-End.
 
 A ideia é revisitar este projeto futuramente para comparar meu progresso, identificar melhorias e reconhecer os conhecimentos adquiridos ao longo dos estudos.
+(21/06/2026)
 
 
