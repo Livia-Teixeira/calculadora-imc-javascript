@@ -10,7 +10,7 @@ function imc() {
     if (nome === '' || isNaN(altura) || altura <= 0 || isNaN(peso) || peso <= 0) {
         resultado.textContent = 'Por favor, preencha todos os campos com valores válidos e maiores que zero.';
         resultado.className = 'row align-items-center mt-4 alert alert-danger'; 
-        return; // Para a execução aqui se houver erro
+        return; 
     }
 
     // 2. Cálculo do IMC
@@ -32,7 +32,7 @@ function imc() {
         classificacao = "Obesidade Grau III";
     }
 
-    // 4. Exibição do resultado (Corrigido para usar Crases `` para Template Strings)
+    // 4. Exibição do resultado 
     resultado.textContent = `Olá ${nome}, seu IMC é ${valorImc.toFixed(2)} | Classificação: ${classificacao}`;
     resultado.className = 'row align-items-center mt-4 alert alert-success';
 }
